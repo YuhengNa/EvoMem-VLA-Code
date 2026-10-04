@@ -4,7 +4,7 @@
 
 [Project Page & Videos](https://yuhengna.github.io/EvoMem-VLA/)
 
-**Yuheng Na, Zhide Zhong†, Junjie He, Junfeng Li, Haodong Yan, Jiaan Wang, Jiaguan Zhu, Yangyang Zheng, Tianyu Huang, Haoang Li***
+**Yuheng Na, Zhide Zhong†, Junjie He, Junfeng Li, Haodong Yan, Jiaan Wang, Jiaquan Zhu, Yangyang Zheng, Tianyu Huang, Haoang Li**\*
 
 † Project lead · * Corresponding author
 
@@ -39,7 +39,7 @@ We jointly train one policy per simulation benchmark. Real-world evaluation cove
 ```bibtex
 @misc{na2026evomemvla,
   title = {EvoMem-VLA: State-Evolution Memory for Long-Horizon Robot Manipulation},
-  author = {Yuheng Na and Zhide Zhong and Junjie He and Junfeng Li and Haodong Yan and Jiaan Wang and Jiaguan Zhu and Yangyang Zheng and Tianyu Huang and Haoang Li},
+  author = {Yuheng Na and Zhide Zhong and Junjie He and Junfeng Li and Haodong Yan and Jiaan Wang and Jiaquan Zhu and Yangyang Zheng and Tianyu Huang and Haoang Li},
   year = {2026},
   url = {https://yuhengna.github.io/EvoMem-VLA/}
 }
